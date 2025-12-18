@@ -127,7 +127,7 @@ export default function App() {
             </svg>
 
             <span style={{ fontSize: 18, fontWeight: 'bold' }}>
-              Sistema Restaurante
+              Sistema De Restaurante
             </span>
           </Link>
 
