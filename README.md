@@ -48,7 +48,7 @@ Sistema-De-Restaurante/
 - ✅ CRUD de Clientes
 - ✅ CRUD de Pratos
 - ✅ CRUD de Pedidos
-- ✅ Relacionamento entre Restaurante, Pratos e Pedidos
+- ✅ Relacionamento entre Clientes, Pratos, Pedidos e Relatório
 - ✅ Interface responsiva e intuitiva
 
 # 🖼️ Telas da Aplicação
