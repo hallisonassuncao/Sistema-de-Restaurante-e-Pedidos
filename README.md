@@ -113,6 +113,13 @@ RF26 – O sistema deve permitir que relatórios combinem informações de clien
 
  <img width="589" height="416" alt="Novo pedido" src="https://github.com/user-attachments/assets/dbf661a5-6c87-4623-949e-1f012e461d0d" />
 
+- Tela 06 ==> Remover Ingredientes
+
+ <img width="1316" height="381" alt="Remover Ingredientes" src="https://github.com/user-attachments/assets/3bde9374-5e17-4731-9673-33efba7ea24f" />
+
+
+  
+
   
 
 # 🧠 Modelagem de Dados
