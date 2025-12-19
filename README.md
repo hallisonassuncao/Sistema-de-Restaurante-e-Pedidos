@@ -38,11 +38,9 @@ Aplicação desenvolvida para facilitar o gerenciamento de restaurantes e pedido
 # 🖼️ Telas da Aplicação
 
 - Tela de Cadastro de Restaurante  
-- Tela de Listagem de Restaurantes  
 - Tela de Cadastro de Produto  
 - Tela de Listagem de Produtos  
 - Tela de Criação de Pedido  
-- Tela de Listagem de Pedidos com Status  
 
 # 🧠 Modelagem de Dados
 
