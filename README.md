@@ -18,18 +18,18 @@ React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 # 📂 Estrutura do Projeto
 
 # 📋 Funcionalidades
-✅ CRUD de Restaurantes
-✅ CRUD de Produtos (Cardápio)
-✅ CRUD de Pedidos
-✅ Relacionamento entre Restaurante, Produto e Pedido
-✅ Atualização do status do pedido (em preparo, pronto, entregue)
-✅ Interface responsiva e intuitiva
+• ✅ CRUD de Restaurantes
+• ✅ CRUD de Produtos (Cardápio)
+• ✅ CRUD de Pedidos
+• ✅ Relacionamento entre Restaurante, Produto e Pedido
+• ✅ Atualização do status do pedido (em preparo, pronto, entregue)
+• ✅ Interface responsiva e intuitiva
 
 # 🖼️ Telas da Aplicação
-Tela de Cadastro de Restaurante
-Tela de Cadastro de Produto
-Tela de Listagem de Produtos
-Tela de pedido
+• Tela de Cadastro de Restaurante
+• Tela de Cadastro de Produto
+• Tela de Listagem de Produtos
+• Tela de pedido
 
 # 🧠 Modelagem de Dados
 Restaurante: nome, endereço, contato
