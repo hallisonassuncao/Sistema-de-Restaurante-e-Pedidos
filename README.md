@@ -55,8 +55,11 @@ Aplicação desenvolvida para facilitar o gerenciamento de restaurantes e pedido
  
 # 👥 Autoria
 • 	Autores: Anderson, Hallison, Matheus Trindade
+
 • 	Projeto: Sistema de Restaurante e Pedidos
+
 • 	Área: Desenvolvimento FrontEnd
+
 • 	Instituição: IFB Taguatinga
 
 
