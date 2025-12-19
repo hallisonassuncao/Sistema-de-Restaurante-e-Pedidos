@@ -20,28 +20,27 @@ React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 # 📂 Estrutura do Projeto
 
 Sistema-De-Restaurante/
-├── node_modules/              # Dependências instaladas pelo npm
-├── images/                    # Imagens utilizadas no projeto
-├── public/                    # Arquivos públicos (favicon, index.html base, etc.)
-├── src/                       # Código-fonte principal
-│   ├── assets/                # Recursos estáticos (ícones, imagens internas, fontes)
-│   ├── components/            # Componentes reutilizáveis da interface
-│   ├── daos/                  # Data Access Objects (persistência em LocalStorage)
-│   ├── objetos/               # Modelos/entidades (Cliente, Pedido, Produto, etc.)
-│   ├── pages/                 # Páginas da aplicação (views)
-│   ├── routes/                # Definição de rotas da aplicação
-│   ├── App.css                # Estilos globais do App
-│   ├── App.jsx                # Componente raiz da aplicação
-│   ├── index.css              # Estilos globais
-│   └── main.jsx               # Ponto de entrada da aplicação
-├── .gitignore                 # Arquivos/pastas ignorados pelo Git
-├── eslint.config.js           # Configuração do ESLint
-├── index.html                 # HTML principal usado pelo Vite
-├── package-lock.json          # Lockfile de dependências
-├── package.json               # Configuração do projeto e dependências
-├── README.md                  # Documentação do projeto
-├── vite.config.js             # Configuração padrão do Vite
-└── vite.config.vercel.js      # Configuração específica para deploy no Vercel
+├── node_modules/
+├── images/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── daos/
+│   ├── objetos/
+│   ├── pages/
+│   ├── routes/
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+├── vite.config.js
 
 # 📋 Funcionalidades
 
