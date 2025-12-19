@@ -121,6 +121,12 @@ RF26 – O sistema deve permitir que relatórios combinem informações de clien
 
  <img width="1282" height="586" alt="Pedidos" src="https://github.com/user-attachments/assets/92598f92-d917-43ba-9bf3-1952a47e34cd" />
 
+- Tela 08 ==> Relatórios
+
+ <img width="1310" height="603" alt="Relatorios" src="https://github.com/user-attachments/assets/b5007691-10ae-4ae9-83b4-7d5194942211" />
+
+ 
+
 
 
   
