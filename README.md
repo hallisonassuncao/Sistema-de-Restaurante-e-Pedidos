@@ -28,10 +28,10 @@ React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 - ✅ Interface responsiva e intuitiva
 
 # 🖼️ Telas da Aplicação
-- Tela de Cadastro de Restaurante
-- Tela de Cadastro de Produto
-- Tela de Listagem de Produtos
-- Tela de pedido
+- Tela de Cadastro do Cliente
+- Tela de Cadastro do Prato
+- Tela de Listagem do Pedido
+- Tela do Relatório
 
 # 🧠 Modelagem de Dados
 
