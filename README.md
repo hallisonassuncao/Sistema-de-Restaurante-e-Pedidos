@@ -42,15 +42,15 @@ Tela de Listagem de Produtos
 Tela de Criação de Pedido
 
 # 🧠 Modelagem de Dados
-Restaurante: nome, endereço, contato
-Produto: nome, preço, descrição, restauranteId
-Pedido: id, cliente, itens, total, status, restauranteId
-Cliente: nome, contato
+
+- **Restaurante:** nome, endereço, contato  
+- **Produto:** nome, preço, descrição, restauranteId  
+- **Pedido:** id, cliente, itens, total, status, restauranteId  
+- **Cliente:** nome, contato  
 
 # ▶️ Execução Local
-npm install
-
-npm run dev
+- **npm install**
+- **npm run dev**
 
 # 👥 Autoria
 
