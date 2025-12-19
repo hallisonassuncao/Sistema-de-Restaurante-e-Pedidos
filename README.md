@@ -49,7 +49,7 @@ Sistema-De-Restaurante/
 ├── vite.config.js
  ```
 # 📋 Funcionalidades (CRUDs + Relacionamentos)
- ==> - O projeto cumpre integralmente o desafio estabelecido
+ ==> O projeto cumpre integralmente o desafio estabelecido.
  
 - ✅ CRUD de Clientes
 - ✅ CRUD de Pratos
@@ -58,55 +58,48 @@ Sistema-De-Restaurante/
 - ✅ Interface responsiva e intuitiva
 
   # 📋 Requisitos Funcionais (RF)
-# 👤 Clientes
-
-- RF01 – Cadastro de clientes, informando nome, telefone, Cep e endereço.
+ # 👤 Clientes
+ 
+- RF01 – Cadastro de clientes, informando nome, telefone, CEP e endereço.
 - RF02 – Permite editar os dados de um cliente já cadastrado.
 - RF03 – Permite excluir clientes do sistema.
 - RF04 – Lista todos os clientes cadastrados.
-- RF05 – permite selecionar um cliente no momento da criação de um pedido.
-
-# 🍽 Pratos
-
+- RF05 – Permite selecionar um cliente no momento da criação de um pedido.
+ # 🍽 Pratos
+ 
 - RF06 – Cadastra os pratos, informando nome, preço, categoria e ingredientes.
 - RF07 – Edita os dados de um prato cadastrado.
-- RF08 – Excluir pratos do cardápio.
+- RF08 – Permite excluir pratos do cardápio.
 - RF09 – Lista todos os pratos disponíveis no cardápio.
 - RF10 – Visualiza detalhes de um prato, incluindo ingredientes e preço.
-
-# 🧾 Pedidos
-
+- 
+ # 🧾 Pedidos
+ 
 - RF11 – Cria um pedido associado a um cliente.
 - RF12 – Adiciona um ou mais pratos ao pedido.
 - RF13 – Remove pratos de um pedido antes da finalização.
 - RF14 – Registra observações no pedido (ex.: retirar ingredientes).
 - RF15 – Calcula automaticamente o valor total do pedido.
 - RF16 – Lista todos os pedidos realizados.
-- RF17 – Excluir ou cancelar pedidos quando necessário.
-
-# 📊 Relatórios
-
+- RF17 – Exclui ou cancela pedidos quando necessário.
+- 
+ # 📊 Relatórios
+ 
 - RF18 – Permite visualizar relatórios de pedidos realizados.
 - RF19 – Permite filtrar relatórios por cliente.
 - RF20 – Filtra relatórios por período (data inicial e final).
-- RF21 – Exibi o valor total faturado em um período selecionado.
+- RF21 – Exibe o valor total faturado em um período selecionado.
 - RF22 – Visualiza detalhes de cada pedido no relatório (cliente, data e valor).
-
-🔗 Requisitos de Relacionamento entre Módulos
-
+🔗 Relacionamentos entre Módulos
 - RF23 – Relaciona clientes aos pedidos.
 - RF24 – Relaciona pratos aos pedidos, permitindo múltiplos pratos por pedido.
-
-# 📋 Requisitos Não Funcionais (RNF)
-
+  
+ #📋 Requisitos Não Funcionais (RNF)
+ 
 - RNF01 – Interface simples e intuitiva.
-
-- RNF02 – Interface responsiva
-
-- RNF03 – Rápidas às ações do usuário.
-
+- RNF02 – Interface responsiva.
+- RNF03 – Respostas rápidas às ações do usuário.
 - RNF04 – Deve garantir a segurança e integridade dos dados de clientes.
-
 - RNF05 – Deve ser compatível com os principais navegadores modernos.
 
 # 🖼️ Telas da Aplicação
