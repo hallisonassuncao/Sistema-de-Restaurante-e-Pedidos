@@ -125,7 +125,7 @@ export default function PedidoTable({ data, clientesById, pratosById, onDelete }
               {/* Campo de adicionar ingrediente */}
               <div style={{ display: "flex", gap: 10, marginBottom: 20 }}>
                 <Input
-                  placeholder="Adicionar ingrediente..."
+                  placeholder="Remover ingrediente..."
                   value={novoIngrediente}
                   onChange={(e) => setNovoIngrediente(e.target.value)}
                 />
