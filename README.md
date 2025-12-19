@@ -36,10 +36,10 @@ Tela de Listagem de Produtos
 Tela de Criação de Pedido
 
 # 🧠 Modelagem de Dados
-Restaurante: id, nome, endereço, contato
-Produto: id, nome, preço, descrição, restauranteId
+Restaurante: nome, endereço, contato
+Produto: nome, preço, descrição, restauranteId
 Pedido: id, cliente, itens, total, status, restauranteId
-Cliente: id, nome, contato
+Cliente: nome, contato
 
 # ▶️ Execução Local
 npm install
