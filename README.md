@@ -15,7 +15,7 @@ com funcionalidades completas de cadastro,
 edição, visualização e exclusão de dados.
 
 # 🧰 Tecnologias Utilizadas
-==># Frontend
+==> # Frontend
 - React (com Vite)
 - TailwindCSS
 - Ant Design
