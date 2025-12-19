@@ -93,7 +93,11 @@ RF25 – O sistema deve relacionar pratos aos pedidos, permitindo múltiplos pra
 RF26 – O sistema deve permitir que relatórios combinem informações de clientes, pratos e pedidos.
 
 # 🖼️ Telas da Aplicação
-- Tela de Cadastro de Clientes
+- Tela 01 ==> Cadastro de Clientes
+
+ <img width="1070" height="601" alt="Cliente 1" src="https://github.com/user-attachments/assets/d3071e5d-bb5e-4a7a-b831-98f2c21e8a13" />
+
+  
 - Tela de Cadastro de Pratos
 - Tela de Listagem de Pedidos
 - Tela de Relatórios
