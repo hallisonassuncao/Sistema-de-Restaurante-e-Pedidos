@@ -1,72 +1,43 @@
-# 🍽 Sistema de Restaurante e Pedidos
+🍽 Sistema de Restaurante e Pedidos
 Frontend em React (Vite) + TailwindCSS + Ant Design + JavaScript (ESM)
 
-Projeto de aplicação web completa para gerenciamento de restaurantes e pedidos, 
-contemplando CRUDs de Restaurantes, 
-Produtos e Pedidos, 
-com persistência via LocalStorage.
+Projeto de aplicação web completo para gerenciamento de restaurantes e pedidos, contemplando CRUDs de Restaurantes, Produtos e Pedidos, com persistência via LocalStorage.
 
-# 🌐 Deploy da Aplicação
-Frontend (Produção):
-🔗 Vercel: https://sistema-de-restaurante-e-pedidos.vercel.app
+🌐 Implantar da Aplicação
+Frontend (Produção): 🔗 Vercel: https://sistema-de-restaurante-e-pedidos.vercel.app
 
-# 📦 Repositórios
-Frontend (ReactJS):
-🔗 https://github.com/hallisonassuncao/Sistema-de-Restaurante-e-Pedidos.git
+📦 Repositórios
+Frontend (ReactJS): 🔗 https://github.com/hallisonassuncao/Sistema-de-Restaurante-e-Pedidos.git
 
-# 🧠 Visão Geral
+🧠 Visão Geral
 Aplicação desenvolvida para facilitar o gerenciamento de restaurantes e pedidos, com funcionalidades completas de cadastro, edição, visualização e exclusão de dados.
 
-# 🧰 Tecnologias Utilizadas
-React (Vite)
-TailwindCSS
-Ant Design
-JavaScript (ESM)
-LocalStorage
+🧰 Tecnologias Utilizadas
+React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 
-# 📂 Estrutura do Projeto
- src/
-  (```)├── components/      # Componentes reutilizáveis
- ├── pages/           # Páginas principais (Clientes, Pratos, Pedidos, Relatórios)
- ├── services/        # Integração com API
- ├── assets/          # Imagens e ícones
- └── App.jsx (```)          # Configuração principal 
-
-# 📋 Funcionalidades
+📂 Estrutura do Projeto
+📋 Funcionalidades
 ✅ CRUD de Restaurantes
-
 ✅ CRUD de Produtos (Cardápio)
-
 ✅ CRUD de Pedidos
-
 ✅ Relacionamento entre Restaurante, Produto e Pedido
-
-✅ Atualização de status do pedido (em preparo, pronto, entregue)
-
+✅ Atualização do status do pedido (em preparo, pronto, entregue)
 ✅ Interface responsiva e intuitiva
-
-# 🖼️ Telas da Aplicação
+🖼️ Telas da Aplicação
 Tela de Cadastro de Restaurante
 Tela de Cadastro de Produto
 Tela de Listagem de Produtos
-Tela de Criação de Pedido
-
-# 🧠 Modelagem de Dados
+Tela de pedido
+🧠 Modelagem de Dados
 Restaurante: nome, endereço, contato
 Produto: nome, preço, descrição, restauranteId
 Pedido: id, cliente, itens, total, status, restauranteId
 Cliente: nome, contato
-
-# ▶️ Execução Local
+▶️Execução Local
 npm install
-
 npm run dev
-
-# 👥 Autoria
-• Autores: Anderson, Hallison e Matheus Trindade
-
-• Projeto: Sistema de Restaurante e Pedidos
-
-• Área: Desenvolvimento FrontEnd
-
-• Instituição: IFB Taguatinga
+👥 Autoria
+Autores: Anderson, Hallison e Matheus Trindade
+Projeto: Sistema de Restaurante e Pedidos
+Área: Desenvolvimento FrontEnd
+Instituição: IFB Taguatinga
