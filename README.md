@@ -43,7 +43,7 @@ Sistema-De-Restaurante/
 ├── README.md
 ├── vite.config.js
  ```
-# 📋 Funcionalidades
+# 📋 Funcionalidades (CRUDs + Relacionamentos)
  
 - ✅ CRUD de Clientes
 - ✅ CRUD de Pratos
