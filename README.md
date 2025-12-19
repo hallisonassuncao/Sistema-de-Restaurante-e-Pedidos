@@ -20,28 +20,29 @@ React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 # 📂 Estrutura do Projeto
 
 Sistema-De-Restaurante/
-|-- node_modules/
-|-- images/
-|-- public/
-|   `-- [arquivos publicos, ex: favicon, index.html base]
-|-- src/
-|   |-- assets/
-|   |-- components/
-|   |-- daos/
-|   |-- objetos/
-|   |-- pages/
-|   |-- routes/
-|   |-- App.css
-|   |-- App.jsx
-|   |-- index.css
-|   `-- main.jsx
-|-- .gitignore
-|-- eslint.config.js
-|-- index.html
-|-- package-lock.json
-|-- package.json
-|-- README.md
-|-- vite.config.js
+├── node_modules/
+├── images/
+├── public/
+│   └── [arquivos públicos, ex: favicon, index.html base]
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── daos/
+│   ├── objetos/
+│   ├── pages/
+│   ├── routes/
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── .gitignore
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── README.md
+├── vite.config.js
+└── vite.config.vercel.js
 
 
 # 📋 Funcionalidades
