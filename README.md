@@ -34,10 +34,10 @@ React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 - Tela de pedido
 
 # 🧠 Modelagem de Dados
-Restaurante: nome, endereço, contato
-Produto: nome, preço, descrição, restauranteId
-Pedido: id, cliente, itens, total, status, restauranteId
-Cliente: nome, contato
+- Restaurante: nome, endereço, contato
+- Produto: nome, preço, descrição, restauranteId
+- Pedido: id, cliente, itens, total
+- Cliente: nome, contato, Telefone e Endereço
 
 # ▶️Execução Local
 - npm install
