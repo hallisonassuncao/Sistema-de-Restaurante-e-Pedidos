@@ -54,8 +54,8 @@ Sistema-De-Restaurante/
   # 📋 Requisitos Funcionais (RF)
 # 👤 Clientes
 
-- RF01 – Cadastra clientes, informando nome, telefone e endereço.
-- RF02 – PermitE editar os dados de um cliente já cadastrado.
+- RF01 – Cadastro de clientes, informando nome, telefone, Cep e endereço.
+- RF02 – Permite editar os dados de um cliente já cadastrado.
 - RF03 – Permite excluir clientes do sistema.
 - RF04 – Lista todos os clientes cadastrados.
 - RF05 – permite selecionar um cliente no momento da criação de um pedido.
@@ -88,9 +88,8 @@ Sistema-De-Restaurante/
 
 🔗 Requisitos de Relacionamento entre Módulos
 
-RF24 – O sistema deve relacionar clientes aos pedidos.
-RF25 – O sistema deve relacionar pratos aos pedidos, permitindo múltiplos pratos por pedido.
-RF26 – O sistema deve permitir que relatórios combinem informações de clientes, pratos e pedidos.
+- RF24 – Relaciona clientes aos pedidos.
+- RF25 – Relaciona pratos aos pedidos, permitindo múltiplos pratos por pedido.
 
 # 🖼️ Telas da Aplicação
 - Tela 01 ==> Cadastro de Clientes
