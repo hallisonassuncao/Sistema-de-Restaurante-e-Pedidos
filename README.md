@@ -51,78 +51,11 @@ Sistema-De-Restaurante/
 - ✅ Relacionamento entre Clientes, Pratos, Pedidos e Relatório
 - ✅ Interface responsiva e intuitiva
 
-# 📋 Requisitos Funcionais (RF)
-
-👥 Clientes
-
-- RF01 – Cadastra clientes, informando nome, telefone e endereço.
-- RF02 – Edita os dados de um cliente já cadastrado.
-- RF03 – Permite excluir clientes do sistema.
-- RF04 – lista todos os clientes cadastrados.
-- RF05 – Seleciona um cliente no momento da criação de um pedido.
-
-🍽 Pratos 
-
-- RF06 – Cadastra pratos, informando nome, preço, categoria e ingredientes.
-- RF07 – Edita os dados de um prato cadastrado.
-- RF08 – Exclui pratos
-- RF09 – Lista todos os pratos disponíveis no cardápio.
-- RF10 – Permite visualizar detalhes de um prato, incluindo ingredientes e preço.
-
-🧾 Pedidos
-
-- RF11 – Cria um pedido associado a um cliente.
-- RF12 – Adiciona um ou mais pratos ao pedido.
-- RF13 – Remove pratos de um pedido antes da finalização.
-- RF14 – Permite Registrar observações no pedido (ex.: retirar ingredientes).
-- RF15 – Calcula automaticamente o valor total do pedido.
-- RF16 – O sistema permite listar todos os pedidos realizados.
-
-📊  Relatórios
-
-- RF17 – O sistema permite visualizar relatórios de pedidos realizados.
-- RF18 – Permite filtrar relatórios por cliente.
-- RF19 – Filtra relatórios por período (data inicial e final).
-- RF20 – Exibir o valor total faturado em um período selecionado.
-- RF21 – Visualiza detalhes de cada pedido no relatório (cliente, data e valor).
-
 # 🖼️ Telas da Aplicação
-- Tela 1 --> Cadastro de Clientes
-  
- <img width="1070" height="601" alt="Cliente 1" src="https://github.com/user-attachments/assets/b944808d-e404-4ed3-9389-90f3d1f2d48c" />
-
-- Tela 2 --> Listagem de Clientes
-  
- <img width="1333" height="607" alt="Listagem de Cliente" src="https://github.com/user-attachments/assets/5c130d62-9876-4b5b-850f-abb787819658" />
- 
-- Tela 3 --> Cadastro de Pratos
-
- <img width="1309" height="426" alt="Cadastro de Pratos" src="https://github.com/user-attachments/assets/4652ce67-8cb9-42dc-bb47-e59aba07363b" />
-
-- Tela 4 --> Listagem de Pratos
-
- <img width="1317" height="610" alt="Pratos" src="https://github.com/user-attachments/assets/06f0e419-380a-4531-b35a-5fca917d01c8" />
-
-- Tela 5 --> Novo Pedido
-
- <img width="589" height="416" alt="Novo pedido" src="https://github.com/user-attachments/assets/648d7e17-6509-48f5-bfc2-2a6077cab916" />
-
- - Tela 6 --> Listagem de Pedidos
- <img width="1308" height="575" alt="Pedidos" src="https://github.com/user-attachments/assets/00320fde-c987-47a4-8bd3-993e8f978c1c" />
-
- - Tela 7 --> Ingredientes Removidos
-
- <img width="1331" height="365" alt="ingredientes Removidos" src="https://github.com/user-attachments/assets/6f94429d-a72f-47e2-a1b4-bf2275983a56" />
-
- - Tela 8 --> Relatórios
-
- <img width="1310" height="603" alt="Relatorios" src="https://github.com/user-attachments/assets/a462e592-0925-4c69-ad3b-5ab59905d9b4" />
-
-
-
-   
-
-   
+- Tela de Cadastro de Clientes
+- Tela de Cadastro de Pratos
+- Tela de Listagem de Pedidos
+- Tela de Relatórios
 
 # 🧠 Modelagem de Dados
 # 📌 Diagrama de Classes

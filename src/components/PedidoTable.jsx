@@ -23,7 +23,7 @@ export default function PedidoTable({ data, clientesById, pratosById, onDelete }
 
     setIngredientesRemovidos(todosIngredientes);
     localStorage.setItem("ingredientesRemovidos", JSON.stringify(todosIngredientes));
-  }, []);
+  }, [data]);
 
   // ✅ Função para atualizar estado + salvar no localStorage
   const salvarIngredientes = (lista) => {
@@ -77,7 +77,7 @@ export default function PedidoTable({ data, clientesById, pratosById, onDelete }
             <div key={`${pedido.id}-${idx}`} style={{ marginBottom: 10 }}>
               <strong>{nome}</strong> ×{i.quantidade}
               <div style={{ fontSize: 12, color: "#555" }}>
-                Ingredientes removidos: {ingredientes}
+                Ingredientes: {ingredientes}
               </div>
             </div>
           );
@@ -117,15 +117,15 @@ export default function PedidoTable({ data, clientesById, pratosById, onDelete }
         },
         {
           key: "2",
-          label: "Ingredientes Removidos",
+          label: "Ingredientes",
           children: (
             <div>
-              <h3>Ingredientes Removidos</h3>
+              <h3>Ingredientes</h3>
 
               {/* Campo de adicionar ingrediente */}
               <div style={{ display: "flex", gap: 10, marginBottom: 20 }}>
                 <Input
-                  placeholder="Remover ingrediente..."
+                  placeholder="Adicionar ingrediente..."
                   value={novoIngrediente}
                   onChange={(e) => setNovoIngrediente(e.target.value)}
                 />
@@ -135,7 +135,7 @@ export default function PedidoTable({ data, clientesById, pratosById, onDelete }
               </div>
 
               {ingredientesRemovidos.length === 0 ? (
-                <p>Nenhum ingrediente removido.</p>
+                <p>Nenhum ingrediente listado.</p>
               ) : (
                 <ul>
                   {ingredientesRemovidos.map((ing, idx) => (
