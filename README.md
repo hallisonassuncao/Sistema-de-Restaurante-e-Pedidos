@@ -72,7 +72,7 @@ Sistema-De-Restaurante/
 - RF08 – Permite excluir pratos do cardápio.
 - RF09 – Lista todos os pratos disponíveis no cardápio.
 - RF10 – Visualiza detalhes de um prato, incluindo ingredientes e preço.
-- 
+  
  # 🧾 Pedidos
  
 - RF11 – Cria um pedido associado a um cliente.
@@ -82,7 +82,7 @@ Sistema-De-Restaurante/
 - RF15 – Calcula automaticamente o valor total do pedido.
 - RF16 – Lista todos os pedidos realizados.
 - RF17 – Exclui ou cancela pedidos quando necessário.
-- 
+ 
  # 📊 Relatórios
  
 - RF18 – Permite visualizar relatórios de pedidos realizados.
@@ -90,11 +90,12 @@ Sistema-De-Restaurante/
 - RF20 – Filtra relatórios por período (data inicial e final).
 - RF21 – Exibe o valor total faturado em um período selecionado.
 - RF22 – Visualiza detalhes de cada pedido no relatório (cliente, data e valor).
+  
 🔗 Relacionamentos entre Módulos
 - RF23 – Relaciona clientes aos pedidos.
 - RF24 – Relaciona pratos aos pedidos, permitindo múltiplos pratos por pedido.
   
- #📋 Requisitos Não Funcionais (RNF)
+ # 📋 Requisitos Não Funcionais (RNF)
  
 - RNF01 – Interface simples e intuitiva.
 - RNF02 – Interface responsiva.
