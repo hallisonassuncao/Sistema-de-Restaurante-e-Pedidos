@@ -146,6 +146,9 @@ Sistema-De-Restaurante/
 
 # 🧠 Modelagem de Dados
 # 📌 Diagrama de Classes
+
+🔹 O diagrama de classes apresentado a seguir ilustra o modelo conceitual adotado no projeto, funcionando como referência para a implementação do Backend e para sua utilização pelo FrontEnd.
+
 <img width="510" height="821" alt="diagramadeclasses" src="https://github.com/user-attachments/assets/c9f7212c-74d9-4570-a083-670babec5b42" />
 
 
