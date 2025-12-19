@@ -1,7 +1,10 @@
 # 🍽 Sistema de Restaurante e Pedidos
 Frontend em React (Vite) + TailwindCSS + Ant Design + JavaScript (ESM)
 
-Projeto de aplicação web completa para gerenciamento de restaurantes e pedidos, contemplando CRUDs de Restaurantes, Produtos e Pedidos, com persistência via LocalStorage.
+Projeto de aplicação web completa para gerenciamento de restaurantes e pedidos, 
+contemplando CRUDs de Restaurantes, 
+Produtos e Pedidos, 
+com persistência via LocalStorage.
 
 # 🌐 Deploy da Aplicação
 Frontend (Produção):
