@@ -34,13 +34,11 @@ React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 - Tela de pedido
 
 # 🧠 Modelagem de Dados
+
+# 📌 Diagrama de Classes
+O diagrama de classes a seguir representa a estrutura conceitual adotada no projeto, servindo como base para o armazenamento de dados no Backend/LocalStorage e para integração com o FrontEnd.
+
 <img width="311" height="680" alt="diagrama de classes" src="https://github.com/user-attachments/assets/ea8b6fd1-b42d-43e4-9734-84b02c7e5075" />
-
-
-- Restaurante: nome, endereço, contato
-- Produto: nome, preço, descrição, restauranteId
-- Pedido: id, cliente, itens, total
-- Cliente: nome, contato, Telefone e Endereço
 
 # ▶️Execução Local
 - npm install
