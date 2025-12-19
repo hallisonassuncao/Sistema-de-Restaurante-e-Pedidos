@@ -109,7 +109,10 @@ RF26 – O sistema deve permitir que relatórios combinem informações de clien
 
  <img width="1317" height="610" alt="Pratos" src="https://github.com/user-attachments/assets/d0e0e5bf-d7b0-413d-b45f-2ae5ef95dc3c" />
 
-- Tela de Relatórios
+- Tela 05 ==> Novo Pedido
+
+ <img width="589" height="416" alt="Novo pedido" src="https://github.com/user-attachments/assets/dbf661a5-6c87-4623-949e-1f012e461d0d" />
+
   
 
 # 🧠 Modelagem de Dados
