@@ -4,21 +4,21 @@ Frontend em React (Vite) + TailwindCSS + Ant Design + JavaScript (ESM)
 
 Projeto de aplicação web completa para gerenciamento de restaurantes e pedidos, contemplando CRUDs de Restaurantes, Produtos e Pedidos, com persistência via LocalStorage.
 
-#🌐 Deploy da Aplicação
+# 🌐 Deploy da Aplicação
 
 - Frontend (Produção):  
   🔗 Vercel: https://sistema-de-restaurante-e-pedidos.vercel.app
 
-#📦 Repositórios
+# 📦 Repositórios
 
 - Frontend (ReactJS):  
   🔗 https://github.com/hallisonassuncao/Sistema-de-Restaurante-e-Pedidos.git
 
-#🧠 Visão Geral
+# 🧠 Visão Geral
 
 Aplicação desenvolvida para facilitar o gerenciamento de restaurantes e pedidos, com funcionalidades completas de cadastro, edição, visualização e exclusão de dados, além de controle de status dos pedidos.
 
-#🧰 Tecnologias Utilizadas
+# 🧰 Tecnologias Utilizadas
 
 - React (Vite)
 - TailwindCSS
@@ -26,7 +26,7 @@ Aplicação desenvolvida para facilitar o gerenciamento de restaurantes e pedido
 - JavaScript (ESM)
 - LocalStorage
 
-#📋 Funcionalidades
+# 📋 Funcionalidades
 
 ✅ CRUD de Restaurantes  
 ✅ CRUD de Produtos (Cardápio)  
@@ -35,7 +35,7 @@ Aplicação desenvolvida para facilitar o gerenciamento de restaurantes e pedido
 ✅ Atualização de status do pedido (em preparo, pronto, entregue)  
 ✅ Interface responsiva e intuitiva  
 
-#🖼️ Telas da Aplicação
+# 🖼️ Telas da Aplicação
 
 - Tela de Cadastro de Restaurante  
 - Tela de Listagem de Restaurantes  
@@ -44,15 +44,15 @@ Aplicação desenvolvida para facilitar o gerenciamento de restaurantes e pedido
 - Tela de Criação de Pedido  
 - Tela de Listagem de Pedidos com Status  
 
-#🧠 Modelagem de Dados
+# 🧠 Modelagem de Dados
 
 - Restaurante: id, nome, endereço, contato  
 - Produto: id, nome, preço, descrição, restauranteId  
 - Pedido: id, cliente, itens, total, status, restauranteId  
 - Cliente: id, nome, contato  
 
-#▶️ Execução Local
-
+# ▶️ Execução Local
+ 
 ```bash
 npm install
 npm run dev
