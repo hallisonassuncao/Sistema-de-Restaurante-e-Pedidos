@@ -24,6 +24,14 @@ Ant Design
 JavaScript (ESM)
 LocalStorage
 
+# 📂 Estrutura do Projeto
+src/
+ ├── components/     # Componentes reutilizáveis
+ ├── pages/          # Páginas principais (Clientes, Pratos, Pedidos, Relatórios)
+ ├── services/       # Integração com API
+ ├── assets/         # Imagens e ícones
+ └── App.jsx         # Configuração principal
+
 # 📋 Funcionalidades
 ✅ CRUD de Restaurantes
 
