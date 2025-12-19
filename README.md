@@ -18,8 +18,8 @@ edição, visualização e exclusão de dados.
 React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 
 # 📂 Estrutura do Projeto
-
- ```Sistema-De-Restaurante/
+ ```
+Sistema-De-Restaurante/
 ├── node_modules/
 ├── images/
 ├── public/
@@ -41,4 +41,34 @@ React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 ├── package.json
 ├── README.md
 ├── vite.config.js
+ ```
+# 📋 Funcionalidades
+ 
+- ✅ CRUD de Restaurantes
+- ✅ CRUD de Produtos (Cardápio)
+- ✅ CRUD de Pedidos
+- ✅ Relacionamento entre Restaurante, Produto e Pedido
+- ✅ Interface responsiva e intuitiva
+
+# 🖼️ Telas da Aplicação
+- Tela de Cadastro de Restaurante
+- Tela de Cadastro de Produto
+- Tela de Listagem de Produtos
+- Tela de pedido
+
+# 🧠 Modelagem de Dados
+# 📌 Diagrama de Classes
+<img width="510" height="821" alt="diagramadeclasses" src="https://github.com/user-attachments/assets/c9f7212c-74d9-4570-a083-670babec5b42" />
+
+
+# ▶️Execução Local
+- npm install
+- npm run dev
+
+# 👥 Autoria
+- Autores: Anderson, Hallison e Matheus Trindade
+- Projeto: Sistema de Restaurante e Pedidos
+- Área: Desenvolvimento FrontEnd
+- Instituição: IFB Taguatinga
+
 
