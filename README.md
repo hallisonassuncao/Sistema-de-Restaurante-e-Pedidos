@@ -15,7 +15,7 @@ com funcionalidades completas de cadastro,
 edição, visualização e exclusão de dados.
 
 # 🧰 Tecnologias Utilizadas
-==> # Frontend
+==> Frontend
 - React (com Vite)
 - TailwindCSS
 - Ant Design
@@ -165,9 +165,9 @@ O diagrama foi modelado utilizando PlantUML, conforme o arquivo uml6.txt .
 
 # 📌 Conclusões Finais
 Este trabalho evidencia:
-- compreensão sólida dos princípios de CRUD;
-- utilização de diagramas e técnicas de modelagem UML;
-- disponibilização da aplicação em um ambiente de produção.
+- Compreensão sólida dos princípios de CRUD;
+- Utilização de diagramas e técnicas de modelagem UML;
+- Disponibilização da aplicação em um ambiente de produção.
 
 
 # 👥 Autoria
