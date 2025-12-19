@@ -15,7 +15,12 @@ com funcionalidades completas de cadastro,
 edição, visualização e exclusão de dados.
 
 # 🧰 Tecnologias Utilizadas
-React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
+==># Frontend
+- React (com Vite)
+- TailwindCSS
+- Ant Design
+- JavaScript (ESM – ECMAScript Modules)
+- LocalStorage
 
 # 📂 Estrutura do Projeto
  ```
