@@ -157,6 +157,7 @@ Sistema-De-Restaurante/
 - Autores: Anderson, Hallison e Matheus Trindade
 - Projeto: Sistema de Restaurante e Pedidos
 - Área: Desenvolvimento FrontEnd
-- Instituição: IFB Taguatinga
+- Instituição:Instituto Federal de Brasília (IFB)
+
 
 
