@@ -10,7 +10,9 @@ Frontend (Produção): 🔗 Vercel: https://sistema-de-restaurante-e-pedidos.ver
 Frontend (ReactJS): 🔗 https://github.com/hallisonassuncao/Sistema-de-Restaurante-e-Pedidos.git
 
 # 🧠 Visão Geral
-Aplicação desenvolvida para facilitar o gerenciamento de restaurantes e pedidos, com funcionalidades completas de cadastro, edição, visualização e exclusão de dados.
+Aplicação desenvolvida para facilitar o gerenciamento de restaurantes e pedidos, 
+com funcionalidades completas de cadastro, 
+edição, visualização e exclusão de dados.
 
 # 🧰 Tecnologias Utilizadas
 React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
@@ -39,8 +41,8 @@ Pedido: id, cliente, itens, total, status, restauranteId
 Cliente: nome, contato
 
 # ▶️Execução Local
-npm install
-npm run dev
+- npm install
+- npm run dev
 
 # 👥 Autoria
 - Autores: Anderson, Hallison e Matheus Trindade
