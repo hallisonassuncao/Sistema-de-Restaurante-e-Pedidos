@@ -54,38 +54,38 @@ Sistema-De-Restaurante/
   # 📋 Requisitos Funcionais (RF)
 # 👤 Clientes
 
-RF01 – O sistema deve permitir cadastrar clientes, informando nome, telefone e endereço.
-RF02 – O sistema deve permitir editar os dados de um cliente já cadastrado.
-RF03 – O sistema deve permitir excluir clientes do sistema.
-RF04 – O sistema deve permitir listar todos os clientes cadastrados.
-RF05 – O sistema deve permitir selecionar um cliente no momento da criação de um pedido.
+- RF01 – Cadastra clientes, informando nome, telefone e endereço.
+- RF02 – O sistema deve permitir editar os dados de um cliente já cadastrado.
+- RF03 – O sistema deve permitir excluir clientes do sistema.
+- RF04 – O sistema deve permitir listar todos os clientes cadastrados.
+- RF05 – O sistema deve permitir selecionar um cliente no momento da criação de um pedido.
 
 # 🍽 Pratos
 
-RF06 – O sistema deve permitir cadastrar pratos, informando nome, preço, categoria e ingredientes.
-RF07 – O sistema deve permitir editar os dados de um prato cadastrado.
-RF08 – O sistema deve permitir excluir pratos do cardápio.
-RF09 – O sistema deve permitir listar todos os pratos disponíveis no cardápio.
-RF10 – O sistema deve permitir visualizar detalhes de um prato, incluindo ingredientes e preço.
+- RF06 – O sistema deve permitir cadastrar pratos, informando nome, preço, categoria e ingredientes.
+- RF07 – O sistema deve permitir editar os dados de um prato cadastrado.
+- RF08 – O sistema deve permitir excluir pratos do cardápio.
+- RF09 – O sistema deve permitir listar todos os pratos disponíveis no cardápio.
+- RF10 – O sistema deve permitir visualizar detalhes de um prato, incluindo ingredientes e preço.
 
 # 🧾 Pedidos
 
-RF11 – O sistema deve permitir criar um pedido associado a um cliente.
-RF12 – O sistema deve permitir adicionar um ou mais pratos ao pedido.
-RF13 – O sistema deve permitir remover pratos de um pedido antes da finalização.
-RF14 – O sistema deve permitir registrar observações no pedido (ex.: retirar ingredientes).
-RF15 – O sistema deve permitir calcular automaticamente o valor total do pedido.
-RF16 – O sistema deve permitir alterar o status do pedido (em preparo, pronto, entregue).
-RF17 – O sistema deve permitir listar todos os pedidos realizados.
-RF18 – O sistema deve permitir excluir ou cancelar pedidos quando necessário.
+- RF11 – O sistema deve permitir criar um pedido associado a um cliente.
+- RF12 – O sistema deve permitir adicionar um ou mais pratos ao pedido.
+- RF13 – O sistema deve permitir remover pratos de um pedido antes da finalização.
+- RF14 – O sistema deve permitir registrar observações no pedido (ex.: retirar ingredientes).
+- RF15 – O sistema deve permitir calcular automaticamente o valor total do pedido.
+- RF16 – O sistema deve permitir alterar o status do pedido (em preparo, pronto, entregue).
+- RF17 – O sistema deve permitir listar todos os pedidos realizados.
+- RF18 – O sistema deve permitir excluir ou cancelar pedidos quando necessário.
 
 # 📊 Relatórios
 
-RF19 – O sistema deve permitir visualizar relatórios de pedidos realizados.
-RF20 – O sistema deve permitir filtrar relatórios por cliente.
-RF21 – O sistema deve permitir filtrar relatórios por período (data inicial e final).
-RF22 – O sistema deve permitir exibir o valor total faturado em um período selecionado.
-RF23 – O sistema deve permitir visualizar detalhes de cada pedido no relatório (cliente, pratos, data e valor).
+- RF19 – O sistema deve permitir visualizar relatórios de pedidos realizados.
+- RF20 – O sistema deve permitir filtrar relatórios por cliente.
+- RF21 – O sistema deve permitir filtrar relatórios por período (data inicial e final).
+- RF22 – O sistema deve permitir exibir o valor total faturado em um período selecionado.
+- RF23 – O sistema deve permitir visualizar detalhes de cada pedido no relatório (cliente, pratos, data e valor).
 
 🔗 Requisitos de Relacionamento entre Módulos
 
