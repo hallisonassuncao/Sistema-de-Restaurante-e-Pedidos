@@ -53,9 +53,11 @@ Sistema-De-Restaurante/
 
 # 🖼️ Telas da Aplicação
 - Tela 1 --> Cadastro de Clientes
+  
  <img width="1070" height="601" alt="Cliente 1" src="https://github.com/user-attachments/assets/b944808d-e404-4ed3-9389-90f3d1f2d48c" />
 
 - Tela 2 --> Listagem de Clientes
+  
   <img width="1333" height="607" alt="Listagem de Cliente" src="https://github.com/user-attachments/assets/5c130d62-9876-4b5b-850f-abb787819658" />
  
 
