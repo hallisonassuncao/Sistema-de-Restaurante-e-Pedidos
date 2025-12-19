@@ -151,6 +151,8 @@ Sistema-De-Restaurante/
 
 <img width="510" height="821" alt="diagramadeclasses" src="https://github.com/user-attachments/assets/c9f7212c-74d9-4570-a083-670babec5b42" />
 
+O diagrama foi modelado utilizando PlantUML, conforme o arquivo uml6.txt.
+
 
 # ▶️Execução Local
 - npm install
