@@ -105,8 +105,10 @@ RF26 – O sistema deve permitir que relatórios combinem informações de clien
 
  <img width="1309" height="426" alt="Cadastro de Pratos" src="https://github.com/user-attachments/assets/6dfe285c-7a93-461b-8258-2ad4e7c84834" />
 
+- Tela 04 ==> Listagem de Pratos
 
-- 
+ <img width="1317" height="610" alt="Pratos" src="https://github.com/user-attachments/assets/d0e0e5bf-d7b0-413d-b45f-2ae5ef95dc3c" />
+
 - Tela de Relatórios
   
 
