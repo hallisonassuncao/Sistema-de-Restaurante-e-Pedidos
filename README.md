@@ -54,9 +54,12 @@ Aplicação desenvolvida para facilitar o gerenciamento de restaurantes e pedido
   npm run dev
  
 # 👥 Autoria
-• Autores: Anderson, Hallison e Matheus Trindade
+• Autores: Anderson, Hallison e Matheus Trindade 
+
 • Projeto: Sistema de Restaurante e Pedidos
+
 • Área: Desenvolvimento FrontEnd
+
 • Instituição: IFB Taguatinga
 
 
