@@ -51,6 +51,41 @@ Sistema-De-Restaurante/
 - ✅ Relacionamento entre Clientes, Pratos, Pedidos e Relatório
 - ✅ Interface responsiva e intuitiva
 
+# 📋 Requisitos Funcionais (RF)
+
+👥 Clientes
+
+RF01 – Cadastra clientes, informando nome, telefone e endereço.
+RF02 – Edita os dados de um cliente já cadastrado.
+RF03 – Permite excluir clientes do sistema.
+RF04 – lista todos os clientes cadastrados.
+RF05 – Seleciona um cliente no momento da criação de um pedido.
+
+🍽 Pratos 
+
+RF06 – Cadastra pratos, informando nome, preço, categoria e ingredientes.
+RF07 – Edita os dados de um prato cadastrado.
+RF08 – Excluir pratos
+RF09 – Lista todos os pratos disponíveis no cardápio.
+RF10 – Permite visualizar detalhes de um prato, incluindo ingredientes e preço.
+
+🧾 Pedidos
+
+RF11 – Cria um pedido associado a um cliente.
+RF12 – Adicionar um ou mais pratos ao pedido.
+RF13 – Remove pratos de um pedido antes da finalização.
+RF14 – Permite Registrar observações no pedido (ex.: retirar ingredientes).
+RF15 – Calcula automaticamente o valor total do pedido.
+RF16 – O sistema deve permitir listar todos os pedidos realizados.
+
+📊  Relatórios
+
+RF17 – O sistema deve permitir visualizar relatórios de pedidos realizados.
+RF18 – Permitir filtrar relatórios por cliente.
+RF19 – Filtrar relatórios por período (data inicial e final).
+RF20 – Exibir o valor total faturado em um período selecionado.
+RF21 – Visualizar detalhes de cada pedido no relatório (cliente, pratos, data e valor).
+
 # 🖼️ Telas da Aplicação
 - Tela 1 --> Cadastro de Clientes
   
