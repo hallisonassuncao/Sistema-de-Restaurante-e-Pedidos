@@ -44,17 +44,17 @@ Sistema-De-Restaurante/
  ```
 # 📋 Funcionalidades
  
-- ✅ CRUD de Restaurantes
-- ✅ CRUD de Produtos (Cardápio)
+- ✅ CRUD de Clientes
+- ✅ CRUD de Pratos
 - ✅ CRUD de Pedidos
-- ✅ Relacionamento entre Restaurante, Produto e Pedido
+- ✅ Relacionamento entre Restaurante, Pratos e Pedidos
 - ✅ Interface responsiva e intuitiva
 
 # 🖼️ Telas da Aplicação
-- Tela de Cadastro de Restaurante
-- Tela de Cadastro de Produto
-- Tela de Listagem de Produtos
-- Tela de pedido
+- Tela de Cadastro de Clientes
+- Tela de Cadastro de Pratos
+- Tela de Listagem de Pedidos
+- Tela de Relatórios
 
 # 🧠 Modelagem de Dados
 # 📌 Diagrama de Classes
