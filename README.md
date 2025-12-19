@@ -91,7 +91,7 @@ Sistema-De-Restaurante/
 - RF24 – Relaciona clientes aos pedidos.
 - RF25 – Relaciona pratos aos pedidos, permitindo múltiplos pratos por pedido.
 
-- 📋 Requisitos Não Funcionais (RNF)
+# 📋 Requisitos Não Funcionais (RNF)
 
 - RNF01 – Interface simples e intuitiva.
 
