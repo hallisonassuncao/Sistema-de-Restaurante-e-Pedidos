@@ -88,8 +88,8 @@ Sistema-De-Restaurante/
 
 🔗 Requisitos de Relacionamento entre Módulos
 
-- RF24 – Relaciona clientes aos pedidos.
-- RF25 – Relaciona pratos aos pedidos, permitindo múltiplos pratos por pedido.
+- RF23 – Relaciona clientes aos pedidos.
+- RF24 – Relaciona pratos aos pedidos, permitindo múltiplos pratos por pedido.
 
 # 📋 Requisitos Não Funcionais (RNF)
 
@@ -101,7 +101,7 @@ Sistema-De-Restaurante/
 
 - RNF04 – Deve garantir a segurança e integridade dos dados de clientes.
 
-- RNF06 – Deve ser compatível com os principais navegadores modernos.
+- RNF05 – Deve ser compatível com os principais navegadores modernos.
 
 # 🖼️ Telas da Aplicação
 - Tela 01 ==> Cadastro de Clientes
