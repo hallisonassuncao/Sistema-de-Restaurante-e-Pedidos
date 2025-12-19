@@ -36,10 +36,11 @@ LocalStorage
 - ✅ Interface responsiva e intuitiva  
 
 # 🖼️ Telas da Aplicação
-Tela de Cadastro de Restaurante
-Tela de Cadastro de Produto
-Tela de Listagem de Produtos
-Tela de Criação de Pedido
+
+- Tela de Cadastro de Restaurante  
+- Tela de Cadastro de Produto  
+- Tela de Listagem de Produtos  
+- Tela de Criação de Pedido  
 
 # 🧠 Modelagem de Dados
 
