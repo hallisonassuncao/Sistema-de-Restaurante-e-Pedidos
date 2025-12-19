@@ -49,6 +49,7 @@ Sistema-De-Restaurante/
 ├── vite.config.js
  ```
 # 📋 Funcionalidades (CRUDs + Relacionamentos)
+ ==> - O projeto cumpre integralmente o desafio estabelecido
  
 - ✅ CRUD de Clientes
 - ✅ CRUD de Pratos
