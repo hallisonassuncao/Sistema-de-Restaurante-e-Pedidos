@@ -25,7 +25,6 @@ React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 - ✅ CRUD de Produtos (Cardápio)
 - ✅ CRUD de Pedidos
 - ✅ Relacionamento entre Restaurante, Produto e Pedido
-- ✅ Atualização do status do pedido (em preparo, pronto, entregue)
 - ✅ Interface responsiva e intuitiva
 
 # 🖼️ Telas da Aplicação
