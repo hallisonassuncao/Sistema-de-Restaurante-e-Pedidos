@@ -27,10 +27,10 @@ React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 - ✅ Interface responsiva e intuitiva
 
 # 🖼️ Telas da Aplicação
-Tela de Cadastro de Restaurante
-Tela de Cadastro de Produto
-Tela de Listagem de Produtos
-Tela de pedido
+- Tela de Cadastro de Restaurante
+- Tela de Cadastro de Produto
+- Tela de Listagem de Produtos
+- Tela de pedido
 
 # 🧠 Modelagem de Dados
 Restaurante: nome, endereço, contato
@@ -42,7 +42,7 @@ Cliente: nome, contato
 npm install
 npm run dev
 
-#👥 Autoria
+# 👥 Autoria
 - Autores: Anderson, Hallison e Matheus Trindade
 - Projeto: Sistema de Restaurante e Pedidos
 - Área: Desenvolvimento FrontEnd
