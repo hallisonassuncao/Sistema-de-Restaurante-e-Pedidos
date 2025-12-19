@@ -35,9 +35,9 @@ React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 
 # 🧠 Modelagem de Dados
 - Restaurante: nome, endereço, contato
-- Prato: nome, preço, descrição
+- Produto: nome, preço, descrição, restauranteId
 - Pedido: id, cliente, itens, total
-- Cliente: nome, contato, Telefone, Cep e Endereço
+- Cliente: nome, contato, Telefone e Endereço
 
 # ▶️Execução Local
 - npm install
