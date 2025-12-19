@@ -1,4 +1,4 @@
-📚 Sistema de Restaurante e Pedidos
+# 📚 Sistema de Restaurante e Pedidos
 
 Frontend em React (Vite) + TailwindCSS + Ant Design + JavaScript (ESM)
 
