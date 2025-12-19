@@ -23,10 +23,15 @@ LocalStorage
 
 # 📋 Funcionalidades
 ✅ CRUD de Restaurantes
+
 ✅ CRUD de Produtos (Cardápio)
+
 ✅ CRUD de Pedidos
+
 ✅ Relacionamento entre Restaurante, Produto e Pedido
+
 ✅ Atualização de status do pedido (em preparo, pronto, entregue)
+
 ✅ Interface responsiva e intuitiva
 
 # 🖼️ Telas da Aplicação
