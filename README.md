@@ -60,8 +60,10 @@ Sistema-De-Restaurante/
   
  <img width="1333" height="607" alt="Listagem de Cliente" src="https://github.com/user-attachments/assets/5c130d62-9876-4b5b-850f-abb787819658" />
  
+- Tela 3 Cadastro de Pratos
+ <img width="1317" height="610" alt="Pratos" src="https://github.com/user-attachments/assets/648c4d55-16fa-40d5-956d-f15dda944bd6" />
 
-- Tela de Cadastro de Pratos
+  
 - Tela de Listagem de Pedidos
 - Tela de Relatórios
 
