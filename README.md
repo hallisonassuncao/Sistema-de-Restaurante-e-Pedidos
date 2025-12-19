@@ -64,6 +64,13 @@ Sistema-De-Restaurante/
 
  <img width="1309" height="426" alt="Cadastro de Pratos" src="https://github.com/user-attachments/assets/4652ce67-8cb9-42dc-bb47-e59aba07363b" />
 
+- Tela 4 --> Listagem de Pratos
+
+ <img width="1317" height="610" alt="Pratos" src="https://github.com/user-attachments/assets/06f0e419-380a-4531-b35a-5fca917d01c8" />
+
+
+ 
+
 
   
 
