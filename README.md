@@ -1,111 +1,58 @@
-🚀 Projeto FrontEnd — Sistema de Restaurante e Pedidos
-Aplicação FrontEnd desenvolvida em ReactJS para gerenciamento de restaurantes e pedidos, implementando CRUDs completos, integração com API REST e boas práticas de arquitetura.
+📚 Sistema de Restaurante e Pedidos
+
+Frontend em React (Vite) + TailwindCSS + Ant Design + JavaScript (ESM)
+
+Projeto de aplicação web completa para gerenciamento de restaurantes e pedidos, contemplando CRUDs de Restaurantes, Produtos e Pedidos, com persistência via LocalStorage.
 
 🌐 Deploy da Aplicação
-🔗 FrontEnd (produção):
-https://sistema-de-restaurante-e-pedidos.vercel.app/
 
-📦 Repositórios do Projeto
-🔗 FrontEnd (ReactJS):
-(https://github.com/hallisonassuncao/Sistema-de-Restaurante-e-Pedidos.git)
+- Frontend (Produção):  
+  🔗 Vercel: https://sistema-de-restaurante-e-pedidos.vercel.app
 
-🧭 Visão Geral do Projeto
-- Domínio: Gerenciamento de Restaurantes e Pedidos
-- Entidades principais: Restaurante, Cardápio, Produto, Pedido, Cliente, Usuário
-- Objetivo: Desenvolver uma aplicação FrontEnd completa para cadastro de restaurantes, gerenciamento de cardápios e pedidos, com integração a um Backend via API REST.
-- Persistência: Realizada via Backend (API REST).
+📦 Repositórios
+
+- Frontend (ReactJS):  
+  🔗 https://github.com/hallisonassuncao/Sistema-de-Restaurante-e-Pedidos.git
+
+🧠 Visão Geral
+
+Aplicação desenvolvida para facilitar o gerenciamento de restaurantes e pedidos, com funcionalidades completas de cadastro, edição, visualização e exclusão de dados, além de controle de status dos pedidos.
 
 🧰 Tecnologias Utilizadas
-FrontEnd
-- ReactJS
-- JavaScript (ES6+)
-- Styled Components / CSS Modules
-- React Router
-- Axios
-BackEnd (Integração)
-- Node.js
-- Express
-- MongoDB (Mongoose)
-- API REST
-- Deploy em Vercel
 
-🎯 Desafio Atendido (CRUDs + Relacionamentos)
-O projeto contempla:
-✅ CRUD de Restaurantes
-✅ CRUD de Produtos (Cardápio)
-✅ CRUD de Pedidos
-✅ Relacionamentos entre Restaurante, Produto e Pedido
-✅ Uso de API REST para persistência
+- React (Vite)
+- TailwindCSS
+- Ant Design
+- JavaScript (ESM)
+- LocalStorage
 
-📋 Requisitos Funcionais (RF)
-Restaurante
-- RF01 — Cadastrar Restaurante
-- RF02 — Listar Restaurantes
-- RF03 — Visualizar detalhes do Restaurante
-- RF04 — Editar Restaurante
-- RF05 — Remover Restaurante
-Produto (Cardápio)
-- RF06 — Cadastrar Produto
-- RF07 — Listar Produtos
-- RF08 — Editar Produto
-- RF09 — Remover Produto
-- RF10 — Associar Produto ao Restaurante
-Pedido
-- RF11 — Criar Pedido
-- RF12 — Listar Pedidos
-- RF13 — Atualizar Status do Pedido (em preparo, pronto, entregue)
-- RF14 — Cancelar Pedido
+📋 Funcionalidades
 
-⚙️ Requisitos Não Funcionais (RNF)
-- RNF01 — Aplicação desenvolvida em ReactJS
-- RNF02 — Interface responsiva e intuitiva
-- RNF03 — Comunicação com Backend via API REST
-- RNF04 — Código organizado por componentes e responsabilidades
-- RNF05 — Validação de formulários
-- RNF06 — Deploy em ambiente de produção (Vercel)
+✅ CRUD de Restaurantes  
+✅ CRUD de Produtos (Cardápio)  
+✅ CRUD de Pedidos  
+✅ Relacionamento entre Restaurante, Produto e Pedido  
+✅ Atualização de status do pedido (em preparo, pronto, entregue)  
+✅ Interface responsiva e intuitiva  
 
 🖼️ Telas da Aplicação
-- Tela 1 — Cadastro de Restaurante
-- Tela 2 — Listagem de Restaurantes
-- Tela 3 — Cadastro de Produto (Cardápio)
-- Tela 4 — Listagem de Produtos
-- Tela 5 — Criação de Pedido
-- Tela 6 — Listagem de Pedidos com Status
 
-🧠 Modelagem dos Dados
-📌 Diagrama de Classes (conceitual):
-- Restaurante
-- Produto
-- Pedido
-- Cliente
-- Usuário
+- Tela de Cadastro de Restaurante  
+- Tela de Listagem de Restaurantes  
+- Tela de Cadastro de Produto  
+- Tela de Listagem de Produtos  
+- Tela de Criação de Pedido  
+- Tela de Listagem de Pedidos com Status  
 
-📂 Estrutura do Projeto FrontEnd
-src/
-├── pages/
-├── components/
-├── models/
-├── services/
-├── routes/
-└── App.jsx
+🧠 Modelagem de Dados
 
-
+- Restaurante: id, nome, endereço, contato  
+- Produto: id, nome, preço, descrição, restauranteId  
+- Pedido: id, cliente, itens, total, status, restauranteId  
+- Cliente: id, nome, contato  
 
 ▶️ Execução Local
+
+```bash
 npm install
 npm run dev
-
-
-
-👥 Autoria
-- Autor: (Anderson, Hallison, Matheus Trindade)
-- Projeto: Sistema de Restaurante e Pedidos
-- Área: Desenvolvimento FrontEnd
-- Instituição: (IFB Taguatinga)
-
-📌 Considerações Finais
-Este projeto demonstra:
-- domínio dos conceitos de CRUD;
-- integração FrontEnd ↔ BackEnd via API REST;
-- aplicação de modelagem UML;
-- aplicação publicada em ambiente de produção.
