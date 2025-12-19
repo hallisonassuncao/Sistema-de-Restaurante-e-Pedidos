@@ -68,15 +68,11 @@ Sistema-De-Restaurante/
 
  <img width="1317" height="610" alt="Pratos" src="https://github.com/user-attachments/assets/06f0e419-380a-4531-b35a-5fca917d01c8" />
 
+- Tela 5 --> Novo Pedido
 
- 
-
-
-  
-
+ <img width="589" height="416" alt="Novo pedido" src="https://github.com/user-attachments/assets/648d7e17-6509-48f5-bfc2-2a6077cab916" />
 
   
-- Tela de Listagem de Pedidos
 - Tela de Relatórios
 
 # 🧠 Modelagem de Dados
