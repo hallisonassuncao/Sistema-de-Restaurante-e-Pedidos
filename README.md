@@ -65,14 +65,14 @@ Sistema-De-Restaurante/
 
 - RF06 – Cadastra pratos, informando nome, preço, categoria e ingredientes.
 - RF07 – Edita os dados de um prato cadastrado.
-- RF08 – Excluir pratos
+- RF08 – Exclui pratos
 - RF09 – Lista todos os pratos disponíveis no cardápio.
 - RF10 – Permite visualizar detalhes de um prato, incluindo ingredientes e preço.
 
 🧾 Pedidos
 
 - RF11 – Cria um pedido associado a um cliente.
-- RF12 – Adicionar um ou mais pratos ao pedido.
+- RF12 – Adiciona um ou mais pratos ao pedido.
 - RF13 – Remove pratos de um pedido antes da finalização.
 - RF14 – Permite Registrar observações no pedido (ex.: retirar ingredientes).
 - RF15 – Calcula automaticamente o valor total do pedido.
@@ -81,10 +81,10 @@ Sistema-De-Restaurante/
 📊  Relatórios
 
 - RF17 – O sistema deve permitir visualizar relatórios de pedidos realizados.
-- RF18 – Permitir filtrar relatórios por cliente.
-- RF19 – Filtrar relatórios por período (data inicial e final).
+- RF18 – Permiti filtrar relatórios por cliente.
+- RF19 – Filtra relatórios por período (data inicial e final).
 - RF20 – Exibir o valor total faturado em um período selecionado.
-- RF21 – Visualizar detalhes de cada pedido no relatório (cliente, pratos, data e valor).
+- RF21 – Visualiza detalhes de cada pedido no relatório (cliente, pratos, data e valor).
 
 # 🖼️ Telas da Aplicação
 - Tela 1 --> Cadastro de Clientes
