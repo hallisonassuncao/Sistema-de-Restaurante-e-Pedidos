@@ -117,6 +117,11 @@ RF26 – O sistema deve permitir que relatórios combinem informações de clien
 
  <img width="1316" height="381" alt="Remover Ingredientes" src="https://github.com/user-attachments/assets/3bde9374-5e17-4731-9673-33efba7ea24f" />
 
+- Tela 07 ==> Listagem de Pedidos
+
+ <img width="1282" height="586" alt="Pedidos" src="https://github.com/user-attachments/assets/92598f92-d917-43ba-9bf3-1952a47e34cd" />
+
+
 
   
 
