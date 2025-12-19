@@ -84,7 +84,7 @@ Sistema-De-Restaurante/
 - RF18 – Permite filtrar relatórios por cliente.
 - RF19 – Filtra relatórios por período (data inicial e final).
 - RF20 – Exibir o valor total faturado em um período selecionado.
-- RF21 – Visualiza detalhes de cada pedido no relatório (cliente, pratos, data e valor).
+- RF21 – Visualiza detalhes de cada pedido no relatório (cliente, data e valor).
 
 # 🖼️ Telas da Aplicação
 - Tela 1 --> Cadastro de Clientes
