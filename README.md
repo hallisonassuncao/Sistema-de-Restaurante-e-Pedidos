@@ -7,7 +7,7 @@ Projeto de aplicação web completo para gerenciamento de restaurantes e pedidos
 ---
 
 ## 🌐 Implantação da Aplicação
-- **Frontend (Produção): [Vercel](https://sistema-de-restaurante-e-pedidos.vercel.app)
+- Frontend (Produção): [Vercel](https://sistema-de-restaurante-e-pedidos.vercel.app)
 
 ---
 
