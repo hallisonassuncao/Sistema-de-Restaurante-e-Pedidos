@@ -79,6 +79,11 @@ Sistema-De-Restaurante/
 
  <img width="1331" height="365" alt="ingredientes Removidos" src="https://github.com/user-attachments/assets/6f94429d-a72f-47e2-a1b4-bf2275983a56" />
 
+ - Tela 8 --> Relatórios
+
+ <img width="1310" height="603" alt="Relatorios" src="https://github.com/user-attachments/assets/a462e592-0925-4c69-ad3b-5ab59905d9b4" />
+
+
 
    
 
