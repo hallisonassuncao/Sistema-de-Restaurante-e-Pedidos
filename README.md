@@ -52,7 +52,9 @@ Sistema-De-Restaurante/
 - ✅ Interface responsiva e intuitiva
 
 # 🖼️ Telas da Aplicação
-- Tela de Cadastro de Clientes
+- Tela 1 --> Cadastro de Clientes
+ <img width="1070" height="601" alt="Cliente 1" src="https://github.com/user-attachments/assets/b944808d-e404-4ed3-9389-90f3d1f2d48c" />
+
 - Tela de Cadastro de Pratos
 - Tela de Listagem de Pedidos
 - Tela de Relatórios
