@@ -16,7 +16,7 @@ Projeto de aplicação web completa para gerenciamento de restaurantes e pedidos
 
 # 🧠 Visão Geral
 
-Aplicação desenvolvida para facilitar o gerenciamento de restaurantes e pedidos, com funcionalidades completas de cadastro, edição, visualização e exclusão de dados, além de controle de status dos pedidos.
+Aplicação desenvolvida para facilitar o gerenciamento de restaurantes e pedidos, com funcionalidades completas de cadastro, edição, visualização e exclusão de dados.
 
 # 🧰 Tecnologias Utilizadas
 
