@@ -51,6 +51,7 @@ Aplicação desenvolvida para facilitar o gerenciamento de restaurantes e pedido
 
 # ▶️ Execução Local
  npm install
+ 
  npm run dev
  
 # 👥 Autoria
