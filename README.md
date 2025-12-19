@@ -76,12 +76,12 @@ Sistema-De-Restaurante/
 - RF13 – Remove pratos de um pedido antes da finalização.
 - RF14 – Permite Registrar observações no pedido (ex.: retirar ingredientes).
 - RF15 – Calcula automaticamente o valor total do pedido.
-- RF16 – O sistema deve permitir listar todos os pedidos realizados.
+- RF16 – O sistema permite listar todos os pedidos realizados.
 
 📊  Relatórios
 
-- RF17 – O sistema deve permitir visualizar relatórios de pedidos realizados.
-- RF18 – Permiti filtrar relatórios por cliente.
+- RF17 – O sistema permite visualizar relatórios de pedidos realizados.
+- RF18 – Permite filtrar relatórios por cliente.
 - RF19 – Filtra relatórios por período (data inicial e final).
 - RF20 – Exibir o valor total faturado em um período selecionado.
 - RF21 – Visualiza detalhes de cada pedido no relatório (cliente, pratos, data e valor).
