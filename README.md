@@ -19,8 +19,8 @@ React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 
 # 📂 Estrutura do Projeto
 
- Sistema-De-Restaurante/
-```├── node_modules/
+ ```Sistema-De-Restaurante/
+├── node_modules/
 ├── images/
 ├── public/
 │   └── [arquivos públicos, ex: favicon, index.html base]
@@ -42,11 +42,10 @@ React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 ├── package.json
 ├── README.md
 ├── vite.config.js
-└── vite.config.vercel.js
----
+└── vite.config.vercel.js```
 
 # 📋 Funcionalidades
-
+       ---
 - ✅ CRUD de Restaurantes
 - ✅ CRUD de Produtos (Cardápio)
 - ✅ CRUD de Pedidos
