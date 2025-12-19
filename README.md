@@ -75,6 +75,13 @@ Sistema-De-Restaurante/
  - Tela 6 --> Listagem de Pedidos
  <img width="1308" height="575" alt="Pedidos" src="https://github.com/user-attachments/assets/00320fde-c987-47a4-8bd3-993e8f978c1c" />
 
+ - Tela 7 --> Ingredientes Removidos
+
+ <img width="1331" height="365" alt="ingredientes Removidos" src="https://github.com/user-attachments/assets/6f94429d-a72f-47e2-a1b4-bf2275983a56" />
+
+
+   
+
    
 
 # 🧠 Modelagem de Dados
