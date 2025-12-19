@@ -1,4 +1,5 @@
 🍽️ Sistema de Restaurante e Pedidos
+
 📌 Visão Geral
 Este projeto é um sistema web para gerenciamento de clientes, pratos, pedidos e relatórios em restaurantes.
 Ele foi desenvolvido em React + Vite e está hospedado na Vercel.
