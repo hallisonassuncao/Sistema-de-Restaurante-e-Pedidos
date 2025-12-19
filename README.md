@@ -43,7 +43,7 @@ React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 ├── README.md
 ├── vite.config.js
 └── vite.config.vercel.js
-
+---
 
 # 📋 Funcionalidades
 
