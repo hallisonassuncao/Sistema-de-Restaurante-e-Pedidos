@@ -153,6 +153,13 @@ Sistema-De-Restaurante/
 - npm install
 - npm run dev
 
+# 📌 Conclusões Finais
+Este trabalho evidencia:
+- compreensão sólida dos princípios de CRUD;
+- utilização de diagramas e técnicas de modelagem UML;
+- disponibilização da aplicação em um ambiente de produção.
+
+
 # 👥 Autoria
 - Autores: Anderson, Hallison e Matheus Trindade
 - Projeto: Sistema de Restaurante e Pedidos
