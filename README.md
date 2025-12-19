@@ -1,24 +1,27 @@
-🍽 Sistema de Restaurante e Pedidos
+# 🍽 Sistema de Restaurante e Pedidos
 Frontend em React (Vite) + TailwindCSS + Ant Design + JavaScript (ESM)
 
 Projeto de aplicação web completa para gerenciamento de restaurantes e pedidos, contemplando CRUDs de Restaurantes, Produtos e Pedidos, com persistência via LocalStorage.
 
-🌐 Deploy da Aplicação
+# 🌐 Deploy da Aplicação
 Frontend (Produção):
 🔗 Vercel: https://sistema-de-restaurante-e-pedidos.vercel.app
-📦 Repositórios
+
+# 📦 Repositórios
 Frontend (ReactJS):
 🔗 https://github.com/hallisonassuncao/Sistema-de-Restaurante-e-Pedidos.git
-🧠 Visão Geral
+
+# 🧠 Visão Geral
 Aplicação desenvolvida para facilitar o gerenciamento de restaurantes e pedidos, com funcionalidades completas de cadastro, edição, visualização e exclusão de dados.
 
-🧰 Tecnologias Utilizadas
+# 🧰 Tecnologias Utilizadas
 React (Vite)
 TailwindCSS
 Ant Design
 JavaScript (ESM)
 LocalStorage
-📋 Funcionalidades
+
+# 📋 Funcionalidades
 ✅ CRUD de Restaurantes
 ✅ CRUD de Produtos (Cardápio)
 ✅ CRUD de Pedidos
@@ -26,22 +29,24 @@ LocalStorage
 ✅ Atualização de status do pedido (em preparo, pronto, entregue)
 ✅ Interface responsiva e intuitiva
 
-🖼️ Telas da Aplicação
+# 🖼️ Telas da Aplicação
 Tela de Cadastro de Restaurante
 Tela de Cadastro de Produto
 Tela de Listagem de Produtos
 Tela de Criação de Pedido
-🧠 Modelagem de Dados
+
+# 🧠 Modelagem de Dados
 Restaurante: id, nome, endereço, contato
 Produto: id, nome, preço, descrição, restauranteId
 Pedido: id, cliente, itens, total, status, restauranteId
 Cliente: id, nome, contato
-▶️ Execução Local
+
+# ▶️ Execução Local
 npm install
 
 npm run dev
 
-👥 Autoria
+# 👥 Autoria
 • Autores: Anderson, Hallison e Matheus Trindade
 
 • Projeto: Sistema de Restaurante e Pedidos
