@@ -41,8 +41,7 @@ React (Vite) TailwindCSS Ant Design JavaScript (ESM) LocalStorage
 ├── package-lock.json
 ├── package.json
 ├── README.md
-├── vite.config.js
-└── vite.config.vercel.js```
+```├── vite.config.js
 
 # 📋 Funcionalidades
        ---
